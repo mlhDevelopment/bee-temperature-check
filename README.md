@@ -13,6 +13,15 @@ This is what you'll need to complete this project
 4. RPi peripherals - development is done directly in Raspbian. Stuff
    like mouse, HDMI monitor, etc.
 
+### Raspberry Pi setup
+In addition to the materials (hardware) above, you'll need the following
+installed on the Raspberry Pi (`sudo apt install` listed in 
+parentheses):
+
+- Fritzing ()
+- Python 3 ()
+- 
+
 ## This repository
 This repository is broken out into lessons based on how I presented the
 material. 
